@@ -115,6 +115,11 @@ $$CuSO_4 + HCHO + NaOH \rightarrow Cu + Byproducts$$
 * Include **diagrams/stock images** for concepts that are difficult to explain textually.
 
 ---
+<img width="1850" height="816" alt="image" src="https://github.com/user-attachments/assets/1ff1b9b3-1f62-4839-8c78-bf8c0bb3bbdf" />
+
+---
+
+<img width="1857" height="833" alt="image" src="https://github.com/user-attachments/assets/ec50b2cb-8f1e-4d2a-8aa7-3a79f326ad47" />
 
 ## ✅ Conclusion
 
@@ -122,13 +127,3 @@ Smart PDF Tutor combines **Content DNA fidelity, structured pedagogy, and multi-
 Its flexibility, professional formatting, and style-preserving output make it ideal for **learning, teaching, and reference** in technical domains.
 
 ---
-
-## 📌 Visual Enhancements for GitHub
-
-* Emojis for headings: ✨, 🛠, 📏, 🎨, 🔍, 💼, 💡, 👥, 🔧, ✅
-* Inline LaTeX support for equations
-* Placeholders for diagrams: `[Insert diagram here]`
-* Section separators (`---`) for readability
-
-Do you want me to create that next?
-```
